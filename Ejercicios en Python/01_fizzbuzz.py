@@ -1,7 +1,7 @@
-###   Retos de Programación   ###
+###   Ejercicios de Programación   ###
 
 """
-RETO #1
+EJERCICIO 01
 EL FAMOSO "FIZZ BUZZ":
 Escribe un programa que muestre por consola (con un print) los
 numeros del 1 al 100 (ambos incluidos y con salto de linea entre 
